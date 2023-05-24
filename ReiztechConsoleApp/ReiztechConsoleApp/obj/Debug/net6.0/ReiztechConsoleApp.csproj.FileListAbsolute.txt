@@ -1,0 +1,15 @@
+C:\Users\Rhico\Documents\ReiztechConsoleApp\ReiztechConsoleApp\bin\Debug\net6.0\ReiztechConsoleApp.exe
+C:\Users\Rhico\Documents\ReiztechConsoleApp\ReiztechConsoleApp\bin\Debug\net6.0\ReiztechConsoleApp.deps.json
+C:\Users\Rhico\Documents\ReiztechConsoleApp\ReiztechConsoleApp\bin\Debug\net6.0\ReiztechConsoleApp.runtimeconfig.json
+C:\Users\Rhico\Documents\ReiztechConsoleApp\ReiztechConsoleApp\bin\Debug\net6.0\ReiztechConsoleApp.dll
+C:\Users\Rhico\Documents\ReiztechConsoleApp\ReiztechConsoleApp\bin\Debug\net6.0\ReiztechConsoleApp.pdb
+C:\Users\Rhico\Documents\ReiztechConsoleApp\ReiztechConsoleApp\obj\Debug\net6.0\ReiztechConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Rhico\Documents\ReiztechConsoleApp\ReiztechConsoleApp\obj\Debug\net6.0\ReiztechConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rhico\Documents\ReiztechConsoleApp\ReiztechConsoleApp\obj\Debug\net6.0\ReiztechConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Rhico\Documents\ReiztechConsoleApp\ReiztechConsoleApp\obj\Debug\net6.0\ReiztechConsoleApp.AssemblyInfo.cs
+C:\Users\Rhico\Documents\ReiztechConsoleApp\ReiztechConsoleApp\obj\Debug\net6.0\ReiztechConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Rhico\Documents\ReiztechConsoleApp\ReiztechConsoleApp\obj\Debug\net6.0\ReiztechConsoleApp.dll
+C:\Users\Rhico\Documents\ReiztechConsoleApp\ReiztechConsoleApp\obj\Debug\net6.0\refint\ReiztechConsoleApp.dll
+C:\Users\Rhico\Documents\ReiztechConsoleApp\ReiztechConsoleApp\obj\Debug\net6.0\ReiztechConsoleApp.pdb
+C:\Users\Rhico\Documents\ReiztechConsoleApp\ReiztechConsoleApp\obj\Debug\net6.0\ReiztechConsoleApp.genruntimeconfig.cache
+C:\Users\Rhico\Documents\ReiztechConsoleApp\ReiztechConsoleApp\obj\Debug\net6.0\ref\ReiztechConsoleApp.dll
