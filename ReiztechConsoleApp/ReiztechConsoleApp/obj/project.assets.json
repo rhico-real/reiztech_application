@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rhico\\Documents\\ReiztechConsoleApp\\ReiztechConsoleApp\\ReiztechConsoleApp.csproj",
+      "projectUniqueName": "C:\\Users\\Rhico\\Documents\\reiztech_application\\ReiztechConsoleApp\\ReiztechConsoleApp\\ReiztechConsoleApp.csproj",
       "projectName": "ReiztechConsoleApp",
-      "projectPath": "C:\\Users\\Rhico\\Documents\\ReiztechConsoleApp\\ReiztechConsoleApp\\ReiztechConsoleApp.csproj",
+      "projectPath": "C:\\Users\\Rhico\\Documents\\reiztech_application\\ReiztechConsoleApp\\ReiztechConsoleApp\\ReiztechConsoleApp.csproj",
       "packagesPath": "C:\\Users\\Rhico\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rhico\\Documents\\ReiztechConsoleApp\\ReiztechConsoleApp\\obj\\",
+      "outputPath": "C:\\Users\\Rhico\\Documents\\reiztech_application\\ReiztechConsoleApp\\ReiztechConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Rhico\\AppData\\Roaming\\NuGet\\NuGet.Config",
