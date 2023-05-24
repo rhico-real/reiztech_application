@@ -23,13 +23,11 @@ if(val == "a")
 
     /// Subtract hour degrees to minute degrees
     /// to get the lesser degree
-    Console.WriteLine("{0}, {1}", hourDegrees, minuteDegrees);
-
     double result = Math.Abs(hourDegrees - minuteDegrees);
 
-    while(result > 360)
+    if(result > 180)
     {
-        result = result / 360;
+        result -= 180;
     }
 
     Console.WriteLine("Lesser Degree is {0} degrees", result);
@@ -98,7 +96,7 @@ static void TraverseTree(Branch<string> node)
 {
     Console.WriteLine(node.Value);
 
-    foreach (var child in node.Children)
+    foreach (var child in node.Branches)
     {
         TraverseTree(child);
     }
@@ -106,14 +104,14 @@ static void TraverseTree(Branch<string> node)
 
 static int CalculateTreeDepth(Branch<string> node)
 {
-    if (node.Children.Count == 0)
+    if (node.Branches.Count == 0)
     {
         return 1; // Leaf node has depth 1
     }
 
     int maxChildDepth = 0;
 
-    foreach (var child in node.Children)
+    foreach (var child in node.Branches)
     {
         int childDepth = CalculateTreeDepth(child);
         maxChildDepth = Math.Max(maxChildDepth, childDepth);
@@ -126,19 +124,19 @@ public class Branch<T>
 {
     public T Value { get; set; }
     public Branch<T>? Parent { get; set; }
-    public List<Branch<T>> Children { get; set; }
+    public List<Branch<T>> Branches { get; set; }
 
     public Branch(T value)
     {
         Value = value;
         Parent = null;
-        Children = new List<Branch<T>>();
+        Branches = new List<Branch<T>>();
     }
 
     public void AddChild(Branch<T> child)
     {
         child.Parent = this;
-        Children.Add(child);
+        Branches.Add(child);
     }
 }
 
